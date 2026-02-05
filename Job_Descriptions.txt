@@ -1,0 +1,203 @@
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+About The Team
+
+Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum Requirements
+
+    MS/MA + 2 years or BS/BA + 3 years of full time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, Business Analyst roles.
+    Proficiency in SQL.
+    Proven ability to manage and deliver on multiple projects with great attention to detail
+    Ability to clearly communicate results and drive impact.
+    Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements.
+    Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations.
+    Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities.
+
+
+Preferred Qualifications
+
+    Prior experience at a growth stage internet or software company.
+    Experience with distributed data frameworks like Spark to write and debug data pipelines.
+    Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+    Strong statistical knowledge.
+    Working knowledge of Python.
+    Experience creating leadership level reporting, such as QBRs, MBRs.
+
+
+Hybrid work at Stripe
+
+This role is available either in an office or a remote location (35+ miles or 56+ km from a Stripe office).
+
+In-office expectations
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+Working remotely at Stripe
+
+A remote location is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently live or plan to live.
+
+Pay and benefits
+
+The annual US base salary range for this role is $146,900 - $220,300. For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.
+
+Hybrid work at Stripe
+
+This role is available either in an office or a remote location (35+ miles or 56+ km from a Stripe office).
+
+In-office expectations
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+Working remotely at Stripe
+
+A remote location is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently live or plan to live.
+Voleon is a technology company that applies state-of-the-art machine learning techniques to real-world problems in finance. For nearly two decades, we have led our industry and worked at the frontier of applying machine learning to investment management. We have become a multibillion dollar asset manager, and we have ambitious goals for the future.
+
+Your colleagues will include internationally recognized experts in machine learning research as well as highly experienced technology and finance professionals. The people who shape our company come from other backgrounds, too, including concert music performance, humanitarian aid, opera singing, sports writing, and BMX racing. You will be part of a team that loves to succeed together.
+
+In addition to our enriching and collegial working environment, we offer competitive compensation and benefits packages, technology talks by our experts, a modern office, catered lunches, and more.
+
+As a Data Analyst, you will be part of a team responsible for owning and simplifying the flow of data used by production trading algorithms at Voleon. The primary responsibility of our team is to ensure continuous operation of production-critical systems by leveraging an on-call rotation. When not taking part in this rotation, your work will focus on improvements to our data-consumption pipelines. Such improvements include the curation and onboarding of datasets for consumption and leveraging data analytics to inform updates to the softwares which form the back-end of these pipelines. This role is a means to make a difference: as a machine learning company, data is essential to our business.
+
+Responsibilities
+
+    Share an on-call rotation; act as first responder ensuring the health and continuous operation of production-critical systems.
+    Perform manual steps and develop automated processes to ensure the completeness and integrity of massive amounts of mission critical financial data pertaining to stocks, bonds, futures, commodities, and more
+    Partner with Members of Research Staff to curate and onboard new and existing datasets
+    Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored, and reported in our production environments.
+    Design systematic and automated processes and tools that allow for scaling and reliability of data-consumption pipelines
+
+Requirements
+
+    Coursework or other relevant training in data analytics, programming, or computing systems
+    Proven problem-solving and analytical abilities including pattern detection, root cause analysis, and issue resolution
+    Experience with Python, pandas, and an interest in programming and data analysis
+    Experience with SQL and working with a relational database system
+    A degree in a technical field
+
+Preferred Qualifications
+
+    Relevant experience in data operations, with proven process improvement skills
+    An understanding of the software development process and exposure to hands-on coding in a professional environment
+    Experience in exploratory data analysis and applied statistics 
+    Experience interacting with Linux kernels
+    While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data
+
+The base salary for this position is $115,000 to $125,000 in the location(s) of this posting. Individual salaries are determined through a variety of factors, including, but not limited to, education, experience, knowledge, skills, and geography. Base salary does not include other forms of total compensation such as bonus compensation and other benefits. Our benefits package includes medical, dental and vision coverage, life and AD&D insurance, 20 days of paid time off, 9 sick days, and a 401(k) plan with a company match.
+Barr is seeking an environmental consultant to join our team. In this hybrid role, you will support the Assessment and Remediation business unit. Assignments may include managing multidisciplinary teams; preparing technical work plans and reports; coordinating ASTM environmental site assessments; investigating contaminated soil, sediment, groundwater, and vapor intrusion; developing site conceptual models; conducting remediation technology evaluations and feasibility studies; developing site management strategies, remedial design, and response action plans; and coordinating site remediation activities.
+
+Responsibilities may also include preparing cost estimates and contracting for investigation activities; developing scopes of work, schedules, and budgets; communications, meetings, and negotiations with clients and regulatory agency personnel; and overall project management.
+
+The person in this position will be expected to help lead business development efforts and provide exceptional client service. Typical business development activities include building and maintaining client relationships, contributing to marketing campaigns and performing client outreach, fostering project opportunities, contributing to proposals and presentations, professional networking, and sharing Barr’s capabilities with existing and potential clients.
+
+Other typical activities include participating in technical conferences and seminars, mentoring and developing staff, and participating in meetings and negotiations with clients, regulatory agency personnel, and other stakeholders. This person will add value to our environmental work through knowledge sharing and creative problem solving.
+
+The ideal candidate for this position is a clear and confident communicator who thrives in collaborative and independent settings. They are strategic, adaptable, and proactive, with strong analytical and problem-solving skills that support sound decision-making in complex situations. They bring a high level of ownership and accountability to their work, with the ability to manage competing priorities while maintaining a focus on quality and detail. This individual demonstrates strong leadership and mentoring capabilities, actively supports the growth of team members, and builds lasting client relationships rooted in trust and service. Above all, they value teamwork, integrity, and delivering impactful, forward-thinking environmental solutions.
+
+Your Impact – Key Responsibilities
+
+    Technical knowledge: lead complex site investigations and remediation design efforts using advanced technical expertise. Apply a strong understanding of contaminated media, regulatory frameworks, and emerging technologies to deliver effective, site-specific environmental solutions.
+    Project management: oversee multidisciplinary teams, manage scopes, schedules, and budgets, and help ensure project quality, safety, and performance standards are consistently met. Provide mentorship and guidance to junior staff as part of project execution.
+    Business development: identify and pursue new project opportunities, contribute to marketing and proposal efforts, and actively participate in professional networking to grow Barr’s presence in the Intermountain West.
+    Problem solving: evaluate intricate site conditions, data sets, and stakeholder needs to develop creative and compliant remediation strategies. Anticipate and navigate regulatory, technical, and logistical challenges throughout the project lifecycle.
+    Communication: develop high-quality technical deliverables and clear, concise reports. Communicate complex technical information effectively to clients, regulators, and diverse internal and external audiences through presentations, meetings, and written documentation.
+    Interpersonal savvy: build and sustain strong relationships with clients, regulatory personnel, and internal teams. Collaborate across disciplines to align technical approaches with client goals while contributing to a positive, inclusive team culture.
+
+
+About The Opportunity
+
+    Compensation: Anticipated range of $100,000–$140,000 annually. Compensation will vary based on relevant experience, education, skill level, and other compensable factors. Employees in this position may also be eligible for a discretionary cash bonus based on team and individual performance. This position is classified as exempt (salaried) under the Fair Labor Standards Act.
+    Hybrid: A hybrid work arrangement may be considered for this position. A hybrid work arrangement refers to splitting time worked between a Barr office and a home office. This position is based out of Barr's Salt Lake City, Utah, office.
+    Travel expectation: willingness to travel and periodically adjust personal schedule to meet project needs (including up to 10%; project needs will vary seasonally and over time.
+    Work environment: ability to work in locations that may feature rough terrain typical of construction sites and may also require entering and working in facilities that include limited accessibility, moving machinery, and other conditions typical of industrial facilities. Job assignments may involve work on waste disposal sites and sites requiring cleanup of hazardous materials. An OSHA-mandated physical exam may be required. Safety training will be provided. Applicants may be asked to participate in a drug screening program at the request of specific clients. Candidates must be able to perform job duties with or without reasonable accommodation.
+
+
+About You – Required Core Competencies
+
+    Education: bachelor’s degree in environmental, civil, geological, or chemical engineering; geology or hydrogeology; or related disciplines.
+    Experience: 9 or more years of relevant experience.
+    Licenses/certifications: registered Professional Engineer or Geologist or ability to become registered within one year.
+    Software: strong computer skills, including word processing and use of spreadsheets. Familiarity with the Microsoft Office Suite.
+    Driver’s license: possession of a current, valid driver’s license and acceptable driving record.
+    Must be legally authorized to work in the United States without the need for sponsorship by Barr, now or in the future.
+
+
+Helpful Additional Experience (not Required)
+
+    Master’s degree in engineering, geology, or a related discipline.
+    Registered Professional Engineer or Geologist or ability to become registered within one year.
+    40-hour Hazardous Waste Operations and Emergency Response Standard (HAZWOPER) certification.
+    Previous consulting experience.
+    Registered certified consultant.
+
+
+Benefits - What We Offer
+
+We are committed to providing an employee experience that attracts and retains top talent. That's why we offer a competitive package of employee benefits - including some unique offerings not found at other companies. At Barr, we also believe that learning doesn't stop when you get your degree, which is why we provide coaching, mentoring, and support for ongoing educational opportunities to foster professional development at every stage of your career.
+
+    Competitive, affordable insurance plans: Medical, dental, vision, life, disability, accidental death insurance, and flexible spending accounts for medical and dependent care
+    Retirement benefits: 401(k) retirement savings plan with company contribution and an Employee Stock Ownership Plan (ESOP) with company contribution in Barr stock
+    Profit distribution: Barr has a "no retained earnings" model and distributes all profit to our employees through our annual bonus distribution plan, ESOP, and dividends to shareholders
+    Professional development benefits: Annual time and expense allowances, mentorship program, and many internal training opportunities
+    Work/life balance: Paid time off, holidays, overtime for non-exempt/hourly staff, and compensatory time for exempt/salaried staff (time off or pay for extra time worked), paid family leave
+    Wellness focus: Ergonomic analysis and equipment, Personal Protective Equipment allowance, wellbeing-focused educational opportunities
+
+
+Salt Lake City area manufacturing leader is searching for an Environmental Manager for the site. Role will report to the Plant Manager. No Direct reports. Will be responsible for overall compliance. Air Water and Waste. BS Engineering, Sciences, or related. Prefer candidate with 5+ years of experience. Will consider consultants with heavy manufacturing client experience. No sponsorship available. Relocation assistance provided.
+At ERM, we’re not just solving problems—we’re shaping the future of sediment remediation. If you’re a seasoned consultant with a passion for technical excellence and strategic leadership, this is your opportunity to make a lasting impact on communities and ecosystems across the U.S.
+
+Why This Role Matters
+
+Sediment contamination is one of the most complex environmental challenges of our time. As a Managing Consultant, Engineer / Scientist (Sediment Site Investigation & Remediation Management) in the Pacific Northwest, you’ll be at the forefront of ERM’s Sediment Site Investigation and Remediation Management (SI/RM) practice—driving innovation, guiding multidisciplinary teams, and delivering solutions that protect waterways and restore ecological balance. Your leadership will influence projects regionally and nationally, while connecting with ERM’s global network to advance best practices worldwide.
+
+This position can be based from a local ERM office with hybrid status or fully remote if 100 miles away from an ERM office.
+
+What Your Impact Is
+
+    Lead high-profile sediment investigation and remediation projects from concept to completion.
+    Shape technical strategies and introduce cutting-edge digital tools and data analytics to optimize project outcomes.
+    Mentor and inspire teams, fostering growth and excellence across ERM’s SI/RM practice.
+    Build strong client relationships and expand ERM’s market presence through exceptional delivery and strategic business development.
+
+What You’ll Bring
+
+Required:
+
+    Bachelor’s degree in aquatic sciences, engineering, geology, chemistry, or related discipline.
+    4+ years of consulting experience with CERCLA-style state and federal sediment site investigation and remediation projects.
+    Proven project management expertise and ability to lead multi-person teams.
+    Strong “seller/doer” track record—proposal writing, winning projects, and client engagement.
+    Excellent communication, strategic thinking, and mentoring skills.
+    Advanced knowledge of sediment regulatory frameworks.
+    Ability to travel for site visits and client meetings.
+    Driver's License Required: This position requires a valid driver's license and/or the ability to operate a company vehicle due to the nature of job duties, which include frequent travel to various client locations across a large geographical area. 
+    This position is not eligible for immigration sponsorship.
+
+Preferred:
+
+    Master’s or Ph.D. in aquatic sciences, engineering, geology, chemistry, or related discipline.
+
+Key Responsibilities
+
+    Manage multiple sediment investigation and remediation projects, ensuring scope, budget, and schedule compliance.
+    Collaborate with ERM’s global SI/RM experts to deliver best-in-class solutions.
+    Provide leadership in staff development, performance management, and retention.
+    Drive business growth through client relationship management and cross-selling ERM’s services.
+    Contribute to technical innovation and share knowledge across ERM’s global network.
+
+For the Managing Consultant, Engineer / Scientist Sediment Site Investigation & Remediation Management position, the anticipated annual base pay is $80,800 – $118,233 (USD). Actual pay will depend on factors such as education, experience, skills, location, performance, and business needs. In some cases, pay may fall outside this range. This role may be eligible for bonus pay (casual and fixed term/flex force employees are not bonus eligible).
+
+We offer a comprehensive benefits package, including paid time off, parental leave, medical, dental, vision, life, disability, AD&D insurance, 401(k) or RRSP/DPSP, and other applicable benefits to eligible employees.
+
+Note: Bonuses, commissions, and other forms of additional compensation are not guaranteed and subject to the sole discretion of ERM and its policies and procedures.

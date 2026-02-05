@@ -1,0 +1,27 @@
+{
+  "leadership": [
+    {
+      "title": "Dancer & Dance Teacher",
+      "organization": "University of Utah & The HERC",
+      "location": "Salt Lake City",
+      "url": "https://www.youtube.com/channel/UCwE9foHptNtSAdqXQfUTRjg",
+      "startDate": "August 2018",
+      "endDate": "Present",
+      "highlights": [
+        "Consistently take community classes, participate in shows, enter battles, and teach dance",
+        "Constantly growing in physical and creative skills by training with other dancers"
+      ]
+    },
+    {
+      "title": "DnD Game Master",
+      "organization": null,
+      "campaign": "The Mystery of Dormant Island",
+      "startDate": "October 2023",
+      "endDate": "Present",
+      "highlights": [
+        "Using fantasy role playing games as a creative way to build teams of people and community",
+        "Continuously finding creative solutions to fun problems while in session"
+      ]
+    }
+  ]
+}

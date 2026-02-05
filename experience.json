@@ -1,0 +1,85 @@
+{
+  "experience": [
+    {
+      "title": "Environmental Specialist",
+      "company": "Gold Systems",
+      "url": "https://goldsystems.com/",
+      "location": null,
+      "startDate": "April 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Trained clients on the technical skills needed to operate the Ambient Water Quality Monitoring System (AWQMS) database, including skills in data management, organization, and analysis.",
+        "Investigated, documented, and resolved data inconsistencies in Microsoft Excel and in AWQMS database for clients to ensure Section 106 compliance."
+      ]
+    },
+    {
+      "title": "Quality Supervisor",
+      "company": "Kerry Group",
+      "url": "https://kerry.com/",
+      "location": null,
+      "startDate": "July 2023",
+      "endDate": "April 2024",
+      "responsibilities": [
+        "Investigate, document, and proactively resolve QA/QC issues to ensure product quality and work with supply chain",
+        "Lead annual SQF audit, generating comprehensive documentation for FDA filing and certification",
+        "Conducted pH, acidity, clarity, and foam tests to monitor & pre-emptively address product concerns",
+        "Maintain monitor-approve-release cycle for products through SAP Concur and Intelex reporting"
+      ]
+    },
+    {
+      "title": "Environmental Consultant Intern",
+      "company": "Rabe Environmental Consulting",
+      "url": "https://rabeconsulting.com/",
+      "location": null,
+      "startDate": "January 2023",
+      "endDate": "April 2023",
+      "responsibilities": [
+        "Compiled ecological compliance reports for NEPA & CEQA, alongside USDF & USDFW standards",
+        "Queried USDA SSURGO to generate maps utilized in agricultural and manufacturing impact reports",
+        "Supplemented reporting processes with FEMA floodmap data, providing additional insights",
+        "Followed the requirements of the Bald and Golden Eagle Protection Act, Endangered Species Act, and Migratory Bird Treaty Act"
+      ]
+    },
+    {
+      "title": "Mosquito Abatement Researcher",
+      "company": "City of Salt Lake",
+      "url": null,
+      "location": "Salt Lake City",
+      "startDate": "September 2022",
+      "endDate": "October 2022",
+      "type": "Seasonal",
+      "responsibilities": [
+        "Prepared field samples via PCR and DNA extraction for virological reporting",
+        "Tested samples for common diseases transmitted by mosquitoes for reports to local health officials",
+        "Generated reports of aggregate laboratory data used to target city resources into preventative measures"
+      ]
+    },
+    {
+      "title": "Naturalist Intern",
+      "company": "Cottonwood Canyons Foundation",
+      "url": "https://cottonwoodcanyons.org/stewardship/trails-crew/",
+      "location": null,
+      "startDate": "July 2022",
+      "endDate": "September 2022",
+      "type": "Seasonal",
+      "responsibilities": [
+        "Refined watershed education curriculum for public education, introducing demonstrations and visuals",
+        "Enforced environmental safety standards for Utah's public trails and protected areas",
+        "Performed fieldwork and surveys of protected ecological sites, cataloguing flora and fauna"
+      ]
+    },
+    {
+      "title": "Animal Care Technician",
+      "company": "University of Utah Hospital, Comparative Medicine",
+      "url": "https://www.research.utah.edu/animal-research/animal-research-matters/",
+      "location": null,
+      "startDate": "November 2019",
+      "endDate": "January 2022",
+      "responsibilities": [
+        "Provided humane animal care to mice, rats, and rabbits",
+        "Maintained research standards for Principle Investigators and their projects",
+        "Managed documentation that complied with state and federal animal welfare standards"
+      ]
+    }
+  ]
+}

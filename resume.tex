@@ -1,0 +1,453 @@
+%----------------------------------------------------------------------------------------
+%   
+%   SUPER COOL RESUME TEMPLATE
+%
+%   Resume Template by Spencer Elkington, for the
+%   purposes of the U Professional Education Program
+%
+%   Welcome to your new resume! I'll be annotating how to apply the concepts
+%   from our resume workshop below
+%   
+%   Feel free to delete this top bit if you ever post the source online - take
+%   credit for all of this amazing work, if you really want!
+%
+%   SOME BASICS:
+%   
+%   Anything with a '%' (percent sign) before it is COMMENTED CODE. This will keep
+%   it from appearing in the final LaTeX render. I use it for two reasons:
+%
+%     1. Making comments like these
+%     2. Omitting things from my resume that I don't want NOW, but may want LATER
+%
+%   Things will come and go from your resume - some experiences you have may not
+%   feel applicable to a job you're currently applying for - DO NOT DELETE THEM
+%   You never know when experience may become relevant again!
+%
+%   COMMENT IT OUT USING '%', because then you can whip out your experience again
+%   when you need it!
+%
+%   Also, sometimes it's a cool confidence booster to un-comment everything and see
+%   all the neat stuff you've done so far in your professional life :)
+%
+%   You can find this and other resume-related code at https://github.com/Spelkington/latex-sample-resume
+%
+%   If you'd like to host this resume on your website, check out https://spelkington.github.io/resume-ci-pipeline/
+%
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%
+%  PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%
+%   These are some document-wide settings and extra LaTeX packages that you may
+%   want to use for your resume. Here, you can adjust:
+%     -   Margin Sizes
+%     -   Indentation
+%     -   Hyperlink Appearance
+%
+%   You will also use this section to put your NAME and CONTACT INFORMATION. This
+%   stuff is very very important and I would highly recommend keeping the format
+%   fairly similar. This is based on advice I've received from our alumni and other
+%   job recruiters
+%
+%   A NOTE ON FORMATTING: Your resume should NEVER EVER EVER be more than ONE PAGE
+%             
+%       Muliple pages is best left to a CV, and unless you are a highly-qualified person
+%       (read: decades of experience in your field) you really should leave it to one page
+%
+%----------------------------------------------------------------------------------------
+
+% Use the custom resume.cls style
+\documentclass{./resume} 
+
+% Document margins
+\usepackage[left=0.75in,  top=0.4in,  right=0.75in,   bottom=0.3in]{geometry} 
+
+% Stuff for setting default indentation for new paragraphs
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+% Package for proper item listing
+\usepackage{enumitem}
+
+% Package for... changing pages? I'm not too certain, and I'm not going to look it up right now
+\usepackage{changepage}
+
+% Package for another thing I don't know about and will not look up right now
+\usepackage{parskip}
+
+% Package for multiple columns! I'm not even sure what this is being used for. :)
+\usepackage{multicol}
+
+% Package to use *fancy* accented letters!
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+%-----------------------------------------
+%
+%   NOTE:
+%   
+%   I personally like having hyperlinks to the neat stuff that I do in my resume! Especially
+%   if you do not have a portfolio website, it's a fun way to directly connect digital viewers
+%   of your resume to the stuff that you've done
+%
+%   NOT EVERYBODY FEELS THIS WAY. It is up to your discretion whether or not you use
+%   hyperlinks
+%
+%   My advice, though:
+%     - Keep hyperlinks set to a dark, neutral color. This will make them non-abrasive
+%     compared to the black of the rest of your text, AND will make them appear normal
+%     should anybody print out your resume
+%
+%-----------------------------------------
+\usepackage[pdfnewwindow]{hyperref}
+\hypersetup{
+  colorlinks=true,  % Flag for whether links should be a different color
+  linkcolor=blue,   % Color of in-page links (not used)
+  filecolor=magenta,  % Color of local filesystem links (not used)
+  urlcolor=[rgb]{0,0,1},    % Color of web links (DEFINITELY USED!)
+}
+
+%------------------------------------------
+%
+%   CONTACT INFO:
+%
+%   DEFINITELY INCLUDE:
+%     - Name
+%     - Email
+%     - Phone #
+%
+%   PROBABLY INCLUDE:
+%     - ZIP Code
+%     - City
+%     - LinkedIn
+%     - Personal Website (such as GitHub, or an actual portfolio website
+%               for all of you tryhards out there.)
+%
+%------------------------------------------
+\name{Ellen Weiler} 
+%\address{Salt Lake City, UT \\ Manitowoc, WI}
+\address{
+  \href{https://www.linkedin.com/in/ellen-weiler-5243241b7/}{LinkedIn} \\
+  \href{mailto:weiler.ellen.7@gmail.com}{Email}
+}  
+
+\begin{document}
+
+%---------------------------------------------------------------------------------------
+%
+%  SUMMARY
+%
+%   If you are so inclined, you can put a summary for yourself. MAKE IT BRIEF, like
+%   the tagline of a movie. A longer summary is GREAT for your LinkedIn, but the space
+%   on a resume is usually better suited for things like education and experiences
+%
+%   Depending on when I want it, I will comment/uncomment this section
+%
+%----------------------------------------------------------------------------------------
+
+\begin{center}
+ \vspace{-1em}
+ {\em
+%  Engineering solutions for market and organizational friction points with reliable design and automation
+%  Uncovering stories about markets and organizations with advanced analysis and intuitive explanations
+%  Finding exciting trends \& insights in data to solve
+ }
+ \vspace{-10pt}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%
+%  EDUCATION SECTION
+%
+%   For a student, this should be the FIRST SECTION on your resume! It's the
+%   signal that lets people know - you're going to be graduated candidate!
+%
+%   DEFINITELY HAVE:
+%     -   Your University
+%     -   Your Major(s), Minors, and Certificates (if applicable)
+%     -   Your graduation date. If you do not know, USE YOUR EXPECTED GRADUATION DATE
+%
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+% TODO: Edit resume.cls to handle formatting better
+{\bf University of Utah} \hfill {\em May 2023}
+\vspace{2pt}
+    \\
+    \textbf{B.S. Biology} | \textit{Environmental and Organismal Biology emphasis} \hfill \textit{3.5 GPA} \\
+    \textbf{B.F.A Modern Dance} \hfill \textit{Dean's List}
+
+
+%----------------------------------------------------------------------------------------
+%
+%   RELEVANT TOPICS
+%
+%   The following is subject to debate!
+%
+%   I, the mighty and benevolent creator of this template, like to put my technical
+%   skills under the Education section. As a student, it feels applicable
+%
+%   It is well within reason to split this into a separate skills section. People
+%   recommend it all the time. Just for them, here's two magic line of code to make it
+%   happen:
+%
+%     \end{rSection}            % End education
+%     \begin{rSection}{Technical Skills}  % Start Technical Skills
+%
+%   There! Magical!
+%   
+%   This section is, if we're being honest, mostly for the benefit of the bots. Recruiters will
+%   sometimes use an Applicant Tracking System (ATS) to organize resumes. These systems are
+%   built to compare your resume to sets of keywords and, if you don't match the keywords
+%   well enough, then into the digital abyss your resume goes
+%
+%   The system below is for your benefit! It allows you to organize and hot-swap keywords
+%   that apply to you. Uncomment the keywords that apply best to the job you are applying
+%   for
+%
+%   To verify you've covered the right keywords, I highly recommend using jobscan.co
+%   It allows you to check your resume against the job description, to make sure you
+%   have as many of the keywords the ATS may be looking for as possible
+%
+%   BE AWARE: WHEN YOU ARE COMMENTING/UNCOMMENTING ITEMS, DO NOT LEAVE TRAILING COMMAS
+%
+%----------------------------------------------------------------------------------------
+
+%------------------------------------------
+%
+%   SKILLS/RELEVANT COURSEWORK
+%     - Class topics (DO NOT PUT CLASS CODES HERE.)
+%     - Independent study subjects
+%     - Soft skills that you happen to be good at
+%
+%------------------------------------------
+{\bf Key Skills:}
+\vspace{-1.83em}
+
+\begin{adjustwidth}{6em}{0pt}
+  Project Management |
+  Quality Assurance |
+  Written Communication |
+  Document Management |
+  Record keeping |
+  Technical Training |
+  Data Reporting |
+  Regulatory Compliance |
+  Regression Testing |
+  UI/UX |
+  Data Analysis |
+  Organization |
+   |
+   |
+   |
+  
+\end{adjustwidth}
+
+
+%----------------------------------------------------------------------------------------
+%
+%  TECHNOLOGIES
+%
+%   This is a place to list of software/hardware that you are proficient in. Stuff like
+%   a preferred OS, software suites like Adobe, Office, or AutoDesk, common programs
+%   like Git, development platforms like Unity, Unreal, Qt, etc
+%
+%----------------------------------------------------------------------------------------
+\vspace{-3pt}
+{\bf Software:}
+\vspace{-1.83em}
+\begin{adjustwidth}{6em}{0pt}
+  SAP Concur |
+  Intelex |
+  Microsoft 365 |
+  ArcGIS |
+  Google Earth |
+  Excel |
+  Powerpoint |
+
+\end{adjustwidth}
+
+%----------------------------------------------------------------------------------------
+%
+%  LANGUAGES
+%   
+%   Section for programming languages
+%
+%   Do NOT put a language here unless you would be comfortable white-boarding
+%   or performing basic coding challenges in that language!
+%
+%   Additionally, I like to denote languages I am most comfortable with
+%   by adding a (preferred) tag next to it
+%
+%----------------------------------------------------------------------------------------
+\vspace{-3pt}
+{\bf Certifications:}
+\vspace{-1.83em}
+\begin{adjustwidth}{7.5em}{0pt}
+  \href{https://arc.net/l/quote/wmdctpzu}{PCQI} |
+    \href{https://www.freecodecamp.org/certification/fcce4310613-bc9f-470c-aa97-c531b91196c8/responsive-web-design}{Responsive Web Design} |
+  \href{https://www.sqfi.com/docs/sqfilibraries/blog-documents/sqfi-guide-to-food-safety-certification-brochure.pdf?sfvrsn=beeb2642_9}{SQFI Manufacturing}
+\end{adjustwidth}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%
+%	WORK EXPERIENCE SECTION
+%
+%   This is the area where you'll put positions you've held at places you've worked for!
+%
+%   Things like company and university jobs should go here. Unpaid research positions can
+%   also go here
+%
+%   DEFINITELY HAVE:
+%       -   Job Title
+%       -   Location
+%       -   Time Period (Start - End, or Start - Current if you still work there.)
+%       -   1 - 3 XYZ Bullets describing your work and responsibilities
+%
+%   XYZ FORMATTING:
+%
+%   Performed [X], resulting in [Y], using [Z]
+%
+%   X: What you did
+%   Y: Why you did it
+%   Z: How you did it
+%
+%   X and Z are the most important bits - Y is nice if you have quantifiable evidence
+%   of the result of your action
+%
+%   Remember, you can comment out bits that don't apply to the position you're tailoring
+%   your resume for but DO NOT DELETE THEM. Good XYZ bullets are hard to come by and you
+%   never know when you might need them again
+%
+%----------------------------------------------------------------------------------------
+
+% PepsiCo
+% General Mills
+% Conagra Brands
+% ERM (Consulting?)
+% SWCA Environmental Consultants
+% https://www.linkedin.com/jobs/view/3799815492
+% https://www.linkedin.com/jobs/view/3799814560
+% https://www.linkedin.com/jobs/view/3799812730
+% https://www.linkedin.com/jobs/view/3766424175
+% https://www.linkedin.com/jobs/view/3757014638
+% https://www.linkedin.com/jobs/view/3763392955
+% https://www.linkedin.com/jobs/view/3593926110
+% https://www.linkedin.com/jobs/view/3787105367
+% https://www.linkedin.com/jobs/view/3776424258
+% https://careers-swca.icims.com/jobs/13149/project-level-biologist/job
+% https://careers-swca.icims.com/jobs/12905/environmental-planner/job
+% https://www.erm.com/careers/contact-us/
+%https://www.linkedin.com/jobs/view/3806468812/?refId=cc00962c-8657-4b86-a985-9c52f9df6f1e&trackingId=%2B5yr4M64RMKdSyZsL4T%2BIQ%3D%3D
+
+
+\begin{rSection}{Experience}
+ {\bf Environmental Specialist} | {\em \href{https://goldsystems.com/}{Gold Systems} \hfill April 2024 - Present}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Trained clients on the technical skills needed to operate the Ambient Water Quality Monitoring System (AWQMS) database, including skills in data management, organization, and analysis. 
+    \item Investigated, documented, and resolved data inconsistencies in Microsoft Excel and in AWQMS database for clients to ensure \href{https://www.epa.gov/water-pollution-control-section-106-grants}{Section 106}\ compliance. 
+    \item   
+    \item 
+  \end{itemize}
+  {\bf Quality Supervisor} | {\em \href{https://kerry.com/}{Kerry Group} \hfill July 2023 - April 2024}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Investigate, document, and proactively resolve \textbf{QA/QC} issues to ensure product quality and work with supply chain
+    \item Lead annual SQF audit, generating comprehensive documentation for FDA filing and certification
+     \item Conducted pH, acidity, clarity, and foam tests to monitor \& pre-emptively address product concerns
+    \item Maintain monitor-approve-release cycle for products through \textbf{SAP Concur} and \textbf{Intelex} reporting
+  \end{itemize}
+
+  {\bf Environmental Consultant Intern} | {\em \href{https://rabeconsulting.com/}{Rabe Environmental Consulting} \hfill January 2023 - April 2023}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Compiled ecological compliance reports for \href{https://www.ntc.blm.gov/krc/system/files?file=legacy/uploads/23284/E1527-13.pdf}{NEPA} \& \href{https://www.califaep.org/docs/CEQA_Handbook_2023_final.pdf}{CEQA}, alongside USDF \& USDFW standards
+    \item Queried \href{https://www.nrcs.usda.gov/resources/data-and-reports/soil-survey-geographic-database-ssurgo}{USDA SSURGO} to generate maps utilized in agricultural and manufacturing impact reports
+    \item Supplemented reporting processes with \href{https://www.newfloodmap.com/?msclkid=ed38dc354e311ad455c0b99658349a22&utm_source=bing&utm_medium=cpc&utm_campaign=New%20Flood%20Map&utm_term=flood%20plane&utm_content=Home}{FEMA floodmap data}, providing additional insights
+    \item Followed the requirements of the Bald and Golden Eagle Protection Act, Endangered Species Act, and Migratory Bird Treaty Act
+  \end{itemize}
+  
+  {\bf Mosquito Abatement Researcher} | {\em \href{https://rabeconsulting.com/}{City of Salt Lake}} | {\em Seasonal \hfill Sept 2022 - Oct 2022}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Prepared field samples via \textbf{PCR} and \textbf{DNA extraction} for virological reporting
+    \item Tested samples for common diseases transmitted by mosquitoes for reports to local health officials
+    \item Generated reports of aggregate laboratory data used to target city resources into preventative measures
+  \end{itemize}
+
+  {\bf Naturalist Intern} | {\em \href{https://cottonwoodcanyons.org/stewardship/trails-crew/}{Cottonwood Canyons Foundation}} | {\em Seasonal \hfill July 2022 - Sept 2022}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Refined watershed education curriculum for public education, introducing demonstrations and visuals
+    \item Enforced environmental safety standards for Utah's public trails and protected areas
+    \item Performed fieldwork and surveys of protected ecological sites, cataloguing flora and fauna
+  \end{itemize}
+  
+  {\bf Animal Care Technician} | {\em \href{https://www.research.utah.edu/animal-research/animal-research-matters/}{University of Utah Hospital, Comparative Medicine} \hfill Nov 2019 - Jan 2022}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Provided humane animal care to mice, rats, and rabbits
+    \item Maintained research standards for Principle Investigators and their projects
+    \item Managed documentation that complied with state and federal animal welfare standards
+  \end{itemize}
+  
+\end{rSection}
+
+
+%-----------------------------------------------------------------------------------------------
+%
+%   PROJECTS
+%
+%   This is a place to put big, cool things that you've worked on and have something to show for.  
+%
+%   Here, I personally like to put three things:
+%       - Personal Projects
+%       - Open-Ended School Projects
+%       - Demonstrable Work Projects
+%
+%   This functions as a micro-portfolio of your work. If you feel comfortable showing it off,
+%   put it here
+%
+%   I also highly recommend putting links for projects, wherever applicable
+%
+%-----------------------------------------------------------------------------------------------
+
+\begin{rSection}{Leadership}
+
+ {\bf \href{https://www.youtube.com/channel/UCwE9foHptNtSAdqXQfUTRjg}{Dancer \& Dance Teacher}} {\em University of Utah \& The HERC, Salt Lake City \hfill August 2018 - Present}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Consistently take community classes, participate in shows, enter battles, and teach dance
+    \item Constantly growing in physical and creative skills by training with other dancers
+  \end{itemize}
+  
+  {\bf DnD Game Master} {\em The Mystery of Dormant Island \hfill October 2023 - Present}
+  \vspace{-6pt}
+  \begin{itemize}[nosep]
+    \item Using fantasy role playing games as a creative way to build teams of people and community
+    \item Continuously finding creative solutions to fun problems while in session. 
+  \end{itemize}
+
+  % {\bf Personal Assistant} | {\em \href{https://www.instagram.com/magnolia_tats?igsh=Ym1pdTdjb2h3aWM4}{Magnolia and Company} \hfill July 2021 - Oct 2022}
+  % \vspace{-6pt}
+  % \begin{itemize}[nosep]
+  %   \item Organized emails and coordinated with clients schedules to create a strong client base
+  %   \item Documented and managed waivers and consent forms from clients
+  %   \item 
+  % \end{itemize}
+
+\end{rSection}
+
+\vspace{1.2em}
+\begin{center}
+%  {\em References available by request} \\
+\end{center}
+
+\end{document}

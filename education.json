@@ -1,0 +1,28 @@
+{
+  "education": [
+    {
+      "institution": "University of Utah",
+      "graduationDate": "May 2023",
+      "degrees": [
+        {
+          "type": "B.S.",
+          "field": "Biology",
+          "emphasis": "Environmental and Organismal Biology",
+          "gpa": "3.5"
+        },
+        {
+          "type": "B.F.A",
+          "field": "Modern Dance"
+        }
+      ],
+      "honors": [
+        "Dean's List"
+      ]
+    }
+  ],
+  "contact": {
+    "name": "Ellen Weiler",
+    "email": "weiler.ellen.7@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ellen-weiler-5243241b7/"
+  }
+}

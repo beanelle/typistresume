@@ -1,0 +1,45 @@
+{
+  "keySkills": [
+    "Project Management",
+    "Quality Assurance",
+    "Written Communication",
+    "Document Management",
+    "Record keeping",
+    "Technical Training",
+    "Data Reporting",
+    "Regulatory Compliance",
+    "Regression Testing",
+    "UI/UX",
+    "Data Analysis",
+    "Organization"
+  ],
+  "software": [
+    "SAP Concur",
+    "Intelex",
+    "Microsoft 365",
+    "ArcGIS",
+    "Google Earth",
+    "Excel",
+    "Powerpoint"
+  ],
+  "certifications": [
+    {
+      "name": "PCQI",
+      "url": "https://arc.net/l/quote/wmdctpzu"
+    },
+    {
+      "name": "Responsive Web Design",
+      "url": "https://www.freecodecamp.org/certification/fcce4310613-bc9f-470c-aa97-c531b91196c8/responsive-web-design"
+    },
+    {
+      "name": "SQFI Manufacturing",
+      "url": "https://www.sqfi.com/docs/sqfilibraries/blog-documents/sqfi-guide-to-food-safety-certification-brochure.pdf?sfvrsn=beeb2642_9"
+    }
+  ],
+  "technicalSkills": [
+    "PCR",
+    "DNA extraction",
+    "AWQMS database",
+    "QA/QC"
+  ]
+}

@@ -1,0 +1,11 @@
+You'll notice `Resume_Structure.typ`, along with `job_descriptions.txt`, `experience.json`, `skills.json`, `projects.json`, `leadership.json`, and `education.json`.
+
+You will be taking all of these files and creating a new resume, based on the structure (and structure alone, NOT content. Do NOT use the existing information in the new resume from this file) from `Resume_Structure.typ`.
+
+Specifically, look through `job_descriptions.txt` to understand the kind of job that I am attempting to make a resume for.
+
+Then, look through the `.json` files at my existing skills, projects, experience, education, and leadership. 
+
+Once you have all of this information, make me a new resume and name it `Resume.typ`.
+
+Once `Resume.typ` is made, run `typst Resume.typ` to make a `Resume.pdf` for me.
